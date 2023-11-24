@@ -1,15 +1,17 @@
 
 ## Introduction
  Hello I'm a MERN stack developer with expertise in JavaScript, Node.js, MongoDB, and React.js. I hold a BSc in Electronic Computer Science, and I'm passionate about creating innovative web applications and solving complex problems in the world of web development.
- # AboutMe
+ ## AboutMe
  Name:-Shalini Parihar
+ 
  Linkedln:-https://www.linkedin.com/in/shalini-parihar-a35359278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+ 
  Email:-pariharshalini630@gmail.com
 
  ## Experience
  ### Intership at YPSILON IT Solution Private  Limited
-# Duration:-April 2023 to October 2023
-# Role:- Web development Intern
+### Duration:-April 2023 to October 2023
+### Role:- Web development Intern
 During my enriching internship, I made significant contributions to various projects and honed my skills in the MERN stack. Here's a glimpse of my key achievements:
 -Spearheaded the development of user interfaces using React, ensuring an optimal and engaging user experience.
 -Collaborated on the creation and maintenance of web applications using the MERN stack, showcasing adaptability and versatility.
